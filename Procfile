@@ -1,1 +1,1 @@
-web: gunicorn picup-flask.app
+web: gunicorn app.app

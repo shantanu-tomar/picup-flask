@@ -1,8 +1,11 @@
-# picup-flask
-PicUp website in python Flask
+# PicUp Flask
+Flask backend for PicUp website
+
+Django backend: https://github.com/shantanu-tomar/picup
 
 Frontend used: https://github.com/shantanu-tomar/picup-angular
 
-Hosted at: https://picup-flask.herokuapp.com/
+# Hosted at:
+Flask variant: https://picup-flask.herokuapp.com/
 
-Django variant: https://github.com/shantanu-tomar/picup
+Django variant: https://picup-django.herokuapp.com/
